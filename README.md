@@ -8,7 +8,7 @@
 
 # 🏗 System Architecture
 
-![architecture](./architecture.png)
+<img width="475" height="688" alt="Image" src="https://github.com/user-attachments/assets/c20c5d8d-3f2f-4d19-bf88-196697275f10" />
 
 - 사용자 앱 / 중개사 앱에서 REST API 요청
 - Spring Boot 기반 API 서버에서 비즈니스 로직 처리
